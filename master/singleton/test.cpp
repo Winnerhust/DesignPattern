@@ -1,4 +1,3 @@
-#include <iostream>
 #include "singleton.h"
 
 int main(int argc, char const *argv[])
